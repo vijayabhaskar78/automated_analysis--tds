@@ -5,6 +5,7 @@
 #   "pandas",
 #   "seaborn",
 #   "matplotlib",
+#   "ipykernel",
 # ]
 # ///
 
